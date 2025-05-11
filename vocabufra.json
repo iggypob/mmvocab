@@ -1,0 +1,40 @@
+{
+  "anytime": [
+    "un\n1"
+    "deux\n2"
+    "trois\n3"
+    "quatre\n4"
+    "cinq\n5"
+    "six\n6"
+    "sept\n7"
+    "huit\n8"
+    "neuf\n9"
+    "dix\n10"
+    "onze\n11"
+    "douze\n12"
+    "treize\n13"
+    "quatorze\n14"
+    "quinze\n15"
+    "seize\n16"
+    "dix-sept\n17"
+    "dix-huit\n18"
+    "dix-neuf\n19"
+    "vingt\n20"
+    "trente\n30"
+    "quarante\n40"
+    "cinquante\n50"
+    "soixante\n60"
+    "soixante-dix\n70"
+    "quatre-vingt\n80"
+    "quatre-vingt-dix\n90"
+  ],
+  "morning": [
+    
+  ],
+  "afternoon": [
+    
+  ],
+  "evening": [
+    
+  ]
+}
